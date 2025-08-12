@@ -1,69 +1,54 @@
 <!-- Banner -->
-<img src="https://via.placeholder.com/1200x300.png?text=Andrew+Longron+-+Tech+%7C+Outdoors+%7C+Entrepreneur" width="100%" alt="Andrew Longron Banner" />
+<img src="https://via.placeholder.com/1200x300.png?text=Andrew+Longron+-+Veteran+%7C+Entrepreneur+%7C+Creator" width="100%" alt="Andrew Longron Banner" />
 
-# Hi, I’m Andrew Longron 👋  
-**Tech Builder • Outdoor Storyteller • Entrepreneur**
+# Hey, I’m Andrew Longron 👋  
 
-I create scalable systems for businesses and unforgettable experiences outdoors.  
-Founder of [Coverage Creatives](https://yourwebsite.com) — AI-powered marketing for insurance agencies.  
-Passionate about building, automating, and exploring — whether it's tech stacks or wild landscapes.
+I’m a veteran, a former chemical plant operator, and a guy who’s never been able to sit still when there’s something worth building.  
+After a decade running high-pressure operations, I jumped headfirst into entrepreneurship, marketing, and content creation — and I’ve never looked back.
 
----
-
-## 💻 Tech Side
-- Founder of **Coverage Creatives** — an AI-driven marketing agency for insurance agents
-- Product development, branding, automation, and scalable systems
-- Building proprietary software platforms & real-time data tools
-- Current focus: Supabase, Next.js, OpenAI API integrations
-
-**Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions)
+I’m a values-led innovator and hands-on builder who merges technology, creativity, and ethics to create systems that work for people — not against them. As a veteran and lifelong problem-solver, I cut through hype and corporate noise to design AI, automation, and open-source solutions that solve real problems today while preparing for tomorrow’s challenges. I challenge “accepted” science with direct experimentation, blending frontier tech with natural systems to build tools that are resilient, practical, and owned by the individual, not controlled by the institution.
 
 ---
 
-## 🏔 Outdoor Side
-- Outdoor content creator & influencer  
-- Focused on fishing, nature conservation, and gear innovation  
-- Partnering with brands for authentic outdoor storytelling  
-- Exploring ways to merge tech & outdoor industries
-
-**Outdoor Gear Favorites:**  
-🎣 Shimano reels • 🥶 Yeti coolers • 🚤 Starlink for remote adventures
+## What I’m All About
+- I see opportunity in the problems most people ignore — and I build systems to solve them.  
+- I don’t do “employees” and “bosses.” I do **partnerships**. We win together.  
+- I’d rather work with three people who share my values than a hundred chasing quick money.  
+- I believe in using AI, tech, and creativity to give people *real* tools that make their lives easier.  
+- I’m a little neurodivergent, which means my brain doesn’t just think outside the box — it ignores the box entirely.
 
 ---
 
-## 🚀 Current Projects
-- **[Coverage Creatives](https://yourwebsite.com)** – AI-powered marketing automation  
-- **Real-Time Fishing Conditions System** – Raspberry Pi + Starlink + crowd-sourced data  
-- **Outdoor Brand Collabs** – Storytelling + campaign production
+## My Main Gig – Coverage Creatives  
+I run **[Coverage Creatives](https://yourwebsite.com)**, a marketing agency built to help insurance agencies actually stand out online.  
+Here’s how we do it:
+- You film the content, we do *everything else*.  
+- We handle your social media, SEO, Google Ads, editing, and unified marketing strategy.  
+- It’s all powered by **Coverage Content**, the platform I built to run our entire operation from one place.  
+
+The goal?  
+To make marketing feel less like a chore and more like an engine that’s always running — even when you’re not.
 
 ---
 
-## 📊 GitHub Stats
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewlongron&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewlongron&layout=compact&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewlongron&theme=github)
+## The Creator Side of Me
+I’m not just behind a desk.  
+I’m out overlanding, fishing, testing gear, and making tutorials to help people get the most out of their adventures.  
+
+- **TikTok:** Almost **300,000 followers** — built 100% organically, posting whatever feels real, from outdoor adventures to the occasional ridiculous idea.  
+- **YouTube:** Overlanding, fishing, gear reviews, and tech how-tos (especially GoPro and camera tutorials).  
+- **Instagram & Facebook:** Same vibe — less about algorithms, more about connecting with the right people.  
+
+And yeah, I only work with brands that share my values. No exceptions.
 
 ---
 
-## 🎯 Currently Learning
-- Raspberry Pi-powered IoT systems  
-- AI agent orchestration  
-- Advanced outdoor content automation  
+## What Drives Me
+I get the biggest rush from taking a raw idea, running it through my brain’s “what-if” filter, and building it into something that works.  
+Sometimes that’s a business. Sometimes it’s a tool. Sometimes it’s a system that lets someone finally take a weekend off because their operation runs itself.
 
----
+For me, success isn’t about just making money. It’s about making things that last — and making sure the people involved are proud of how we did it.
 
-## 🌐 Let’s Connect
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://yourwebsite.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Outdoor%20Life-pink)](https://instagram.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue)](https://linkedin.com/in/andrewlongron)
-[![YouTube](https://img.shields.io/badge/YouTube-Outdoor%20Adventures-red)](https://youtube.com/yourchannel)
-
----
 
 > “Build systems that work while you sleep. Live stories worth telling.” — Andrew Longron
+
