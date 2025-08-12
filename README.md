@@ -20,11 +20,13 @@ I’m a values-led innovator and hands-on builder who merges technology, creativ
 ---
 
 ## My Main Gig – Coverage Creatives  
-I run **[Coverage Creatives](https://yourwebsite.com)**, a marketing agency built to help insurance agencies actually stand out online.  
+I run **[Coverage Creatives](https://coveragecreatives.com)**, a marketing agency built to help insurance agencies actually stand out online.  
 Here’s how we do it:
 - You film the content, we do *everything else*.  
 - We handle your social media, SEO, Google Ads, editing, and unified marketing strategy.  
-- It’s all powered by **Coverage Content**, the platform I built to run our entire operation from one place.  
+
+But here’s the twist — I didn’t just build the agency. I built the **software** that runs it.  
+What started as a “vibe” side project turned into me actually learning how to code. That project became **Coverage Content**, our in-house platform that powers everything we do — from content scheduling to analytics to campaign tracking.  
 
 The goal?  
 To make marketing feel less like a chore and more like an engine that’s always running — even when you’re not.
