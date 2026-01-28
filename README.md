@@ -1,5 +1,16 @@
-<!-- Banner -->
-<img src="https://via.placeholder.com/1200x300.png?text=Andrew+Longron+-+Veteran+%7C+Entrepreneur+%7C+Creator" width="100%" alt="Andrew Longron Banner" />
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=200&text=Andrew%20Longron&fontAlign=70&fontAlignY=35&fontColor=ffffff&fontSize=50&rotate=13&desc=Veteran%20|%20Entrepreneur%20|%20Creator%20|%20Builder&descAlign=70&descAlignY=55&descSize=20)
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║   █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗██╗    ██╗         ║
+║  ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║    ██║         ║
+║  ███████║██╔██╗ ██║██║  ██║██████╔╝█████╗  ██║ █╗ ██║         ║
+║  ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ██║███╗██║         ║
+║  ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗╚███╔███╔╝         ║
+║  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝          ║
+║        Veteran | Entrepreneur | Creator | Builder             ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 # Hey, I’m Andrew Longron 👋  
 
@@ -54,3 +65,27 @@ For me, success isn’t about just making money. It’s about making things that
 
 > “Build systems that work while you sleep. Live stories worth telling.” — Andrew Longron
 
+
+---
+
+## 🛠️ Tech & Tools
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=worksyncal&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=worksyncal&layout=compact&theme=github_dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=worksyncal&theme=github-dark&hide_border=true)
